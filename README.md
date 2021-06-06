@@ -1,2 +1,2 @@
 # ProductivityAssistant
-eye tracking software to help people improve their productivity habits
+Check out the wiki for more details!
